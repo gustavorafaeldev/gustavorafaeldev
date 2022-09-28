@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorafaeldev&theme=dracula&count-private=true&show_icons=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorafaeldev&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorafaeldev&theme=dracula&count-private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorafaeldev&layout=compact&theme=dracula"/>
 </div>
 
 
